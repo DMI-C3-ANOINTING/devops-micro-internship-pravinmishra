@@ -33,7 +33,9 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I have always believed to make a great impact in the world of Technology, which my friend has never believed, he has done a lot of things to discourage on this path. My friends always say i should do other thing with my life, i am old enough. funny enough i am hitting my 30th this month.
+
+
 
 ---
 
@@ -55,11 +57,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Alcohol is a great drink
 
 ### Evidence from my life
 
-Add your answer here...
+Alcohol is a great drink, up all till i took and discovered the lies.
 
 ---
 
@@ -67,11 +69,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Sex is fun
 
 ### Evidence from my life
 
-Add your answer here...
+Sex is fun, but sex is beyond fun, you lose more in sleeping with multiple ladies
 
 ---
 
@@ -79,11 +81,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Self made man
 
 ### Evidence from my life
 
-Add your answer here...
+Succeeding outside of Jesus Christ, i saw on miserable my life was
 
 ---
 
@@ -135,13 +137,34 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+My Version 2.0
+
+From DevOps Intern to Cloud Engineer: Anointing's Rise
+
+Anointing built a name for themselves in cloud engineering the way most solid careers get built — one shipped pipeline at a time. It started in 2026 with a DevOps micro-internship, learning to think in systems rather than just tools. That foundation held up.
+
+Within two years, Anointing shipped CI/CD pipelines for teams migrating legacy infrastructure to Kubernetes, and led a small squad through a containerization overhaul that cut deployment time significantly. They earned their AWS Solutions Architect and Certified Kubernetes Administrator certifications along the way, treating each one as proof of hands-on skill rather than a box to check.
+
+Anointing published a series of blog posts breaking down Terraform and infrastructure-as-code concepts in plain language — the kind of writing that made complex ideas click for people just starting out. Their GitHub filled up with open-source Terraform modules and Kubernetes deployment templates, some of which other engineers now reference in their own projects.
+
+They contributed actively to DevOps communities, mentoring newer engineers coming up through similar micro-internship programs, paying forward the guidance they once received.
+
+Anointing relocated Switzerland, landing a cloud engineering role that took their skill set beyond Nigeria's borders — proof that curiosity and consistent building can open doors credentials alone sometimes can't.
+
+Today, colleagues describe Anointing as someone who doesn't just deploy infrastructure — they explain it, document it, and teach it. That instinct to build in public and share what they learn has become their quiet signature in the field.
+
+Special thanks to my mentor Pravin Mishra and Anjana Muthunayake 
+and the great team of The CloudAdvisory Oy 
+and my team lead Joy Ukpabi for your great support.
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort 3 by [Pravin Mishra] (https://lnkd.in/eF_-AYPz). You can start your DevOps journey by joining this [Discord Community] (https://lnkd.in/eBCvZSti)
+Join the DMI (DevOps Micro Internship) – Waiting List Discord Server!
 
 ### Public Link
 
 Paste your link here:
 
-`__________________________`
+`____________https://www.linkedin.com/posts/anointing-ugo-olumba-39115b265_join-the-dmi-devops-micro-internship-activity-7477887742572490753-tyVH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAED7_V0Bgu6KcSX4wgcUWP8JQCfBPjvZ2nY______________`
 
 ---
 
@@ -173,7 +196,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Its closer to stress, in a narrow sense, something like tension when i notice, mid-response, that i am about to say something with more certainty than i actually have. maybe a bit of regret in some specific case where i catch myself after the fact and think loud that was not a right attitude.
 
 ---
 
@@ -199,16 +222,38 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. As a man thinketh
+
+![assignment 5](<screenshots/As a man Thinketh.jpg>)
+
+2. See you at the top 
+
+![assignment 5](<screenshots/See you at the top.jpg>)
+
+3. The poer of Positive thinking
+
+![assignment 5](<screenshots/The Power of Positive Thinking.jpg>)
+4.  he principles and Power of vision
+
+![assignment 5](<screenshots/The Principles and Power of vision.jpg>)
+5. The success Principles
+
+![assignment 5](<screenshots/The success Principles.jpg>)
+6. The unlimited Power of Faith
+
+![assignment 5](<screenshots/The unlimited power of faith.jpg>)
+7. The magic of thinking big 
+
+![assignment 5](screenshots/the-magic-of-thinking-big.jpg)
+8. The pursuit of Purpose
+
+![assignment 5](screenshots/the-pursuit-of-purpose.jpg)
+9. Think and Grow Rich
+
+![assignment 5](<screenshots/Think and Grow Rich.jpg>)
+10. Understanding financial prosperity
+
+![assignment 5](screenshots/understanding-financial-prosperity.jpg)
 
 ---
 
@@ -237,16 +282,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* learning to drive big truck
+ exercise on a daily basis
+ eating healthy
+ Time management
+ learning new things
+ shipping and building
+ studying my bible
+ praying daily
+ building community
+ showing up for love ones.
 
 ---
 
@@ -272,7 +317,11 @@ Examples:
 
 Answer:
 
-Add your answer here...
+5-Month DevOps Cloud Engineer Journey — Brain Dump A working document. Messy is fine. This is for you, not a recruiter. 🎯 Goals Finish DMI Cohort 3 strong — actually absorb the AWS, Docker, Kubernetes, Terraform, and CI/CD material, not just complete the assignments Get comfortable enough with Agentic AI tooling to talk about it confidently in interviews, not just on a resume line Build a small portfolio of real projects — something with Terraform + K8s + a CI/CD pipeline you can walk someone through end to end Land a role (or strong interview pipeline) in Nigeria's Tier 1 banks or a platform engineering role in Auckland — whichever door opens first Keep the LinkedIn presence alive — not just the onboarding post, but a consistent thread of "here's what I'm learning" content Make real progress on the relocation research — narrow down from five countries to a real shortlist with actual next steps (visa type, savings target, timeline) 😟 Worries Impostor feeling: worried the "curiosity over credentials" positioning sounds good in theory but won't hold up against candidates with 3+ years of production experience Money — five months is a long runway with no guaranteed income at the end of it Losing momentum halfway through — cohorts are easy to start, hard to finish Not knowing if the internship experience will actually translate into interview-ready stories, or just certificates Relocation research turning into endless research and never turning into action 💡 Ideas Turn the future-retrospective assignment into a public blog post — "intern to cloud engineer" arc, told honestly Document the DMI Cohort journey in real time on LinkedIn instead of writing about it after the fact Reach out to Pravin (mentor) for a mid-program check-in, not just when something's due Find one or two people in the Discord/tech community to trade accountability with — weekly check-ins, even informal Start a "proof of work" repo — every project from the cohort pushed to GitHub with a proper README, not left half-finished locally ✅ Responsibilities DMI Cohort 3 deliverables — on time, not rushed the night before Staying responsive to Pravin and the CloudAdvisory team Keeping the LinkedIn/Discord presence active without it becoming a chore [Add: any freelance, family, or other work commitments running alongside this] 💰 Bills Paying for a subscription in the midst of no actual job to rely on is so many reasons to quit this journey. Struggling with a stable internet in an area where the internet is not strong can be a challenge. Paying for a certification exam in the midst of no-good source of income is a miracle
+
+📋 Tasks Finish current DMI module Push latest project to GitHub with README Write next LinkedIn update Research one concrete next step for top relocation country Follow up on job market research — Access/GTBank/Zenith/Stanbic or Auckland platform roles
+
+📨 Pending Messages Who's waiting to hear back from you? Pravin Mishra— Discord community contacts — My family and some friends who are ready to mock my journey of not being successful.
 
 ---
 
@@ -290,7 +339,9 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday-Thursday: 90 min deep work
+Sat: MDI session
+Sun: DMI Review
 
 ---
 
@@ -298,11 +349,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Every Evening form 9:00 pm - 10:00 pm
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+every evening all throughtout this internship
 
 ---
 
@@ -316,7 +367,7 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Putting my phones away and turning ON DO NOT DISTURB, Freezing my social media accounts to stay focus on the goal to run the previous assigment and  been good with the skills. Always create a conductive environment to learn.
 
 ---
 
@@ -324,21 +375,21 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+Consistency is the key for any skills
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+Not be consistency with learning
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+always stay consistent
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+`_https://www.linkedin.com/posts/anointing-ugo-olumba-39115b265_devops-cloudengineering-consistency-activity-7478080986350616576-jZ6L?utm_source=share&utm_medium=member_android&rcm=ACoAAED7_V0Bgu6KcSX4wgcUWP8JQCfBPjvZ2nY_________________________`
 
 ---
 
@@ -347,7 +398,7 @@ Paste your LinkedIn post link here:
 - LinkedIn Post URL: **ADD LINK HERE**  
 - Blog / Medium : **ADD LINK HERE**  
 
----
+-https://www.linkedin.com/posts/anointing-ugo-olumba-39115b265_devops-cloudengineering-consistency-activity-7478080986350616576-jZ6L?utm_source=share&utm_medium=member_android&rcm=ACoAAED7_V0Bgu6KcSX4wgcUWP8JQCfBPjvZ2nY--
 
 ## 📌 About DMI & CloudAdvisory
 

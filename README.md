@@ -13,11 +13,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | UGO-OLUMBA ANOINTING CHUKWUEBUKA|
+| **LinkedIn** | [UGO-OLUMBA ANOINTING ](https://www.linkedin.com/in/anointing-ugo-olumba-39115b265/) |
+| **Location** | ABUJA, NIGERIA|
+| **Background** | Cloud, DevOps & AI Professional |
+| **Goal** | To impact great in AWS|
 
 ---
 
@@ -64,13 +64,13 @@ This is not a course. It is an internship-style program — real deployments, re
 
 ---
 
-**Your stack (uncomment each badge as you earn it):**
 
-<!-- Week 00 → Internet & Networking Basics -->
-<!-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
 
-<!-- Week 01 → Success Mindset -->
-<!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
+ Week 00 → Internet & Networking Basics 
+[Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)
+
+ Week 01 → Success Mindset
+[Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
 <!-- Week 02 → Agentic AI with Claude Code -->
 <!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
@@ -111,7 +111,7 @@ This is not a course. It is an internship-style program — real deployments, re
 <!-- Week 14 → Final Project / Capstone -->
 <!-- [![Week 14 – Capstone](./badges/week-14.svg)](./week-14-final-project/) -->
 
-*Complete a week → uncomment the badge → watch your stack grow.*
+
 
 ---
 
@@ -132,8 +132,8 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ⏳ Pending | — | — |
+| 01 | Success Mindset | ✅ Completed | https://www.linkedin.com/posts/anointing-ugo-olumba-39115b265_join-the-dmi-devops-micro-internship-share-7477887740068585475-dcUz/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAED7_V0Bgu6KcSX4wgcUWP8JQCfBPjvZ2nY| — | — |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
