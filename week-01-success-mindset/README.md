@@ -92,8 +92,7 @@ Succeeding outside of Jesus Christ, i saw on miserable my life was
 # Assignment 3. What does your 2.0 version look like?
 
 ### Instructions
-
-Write as if a journalist is writing about you **3 to 7 years from now** (not 20 years).
+write as if a journalist is writing about you **3 to 7 years from now** (not 20 years).
 
 **Minimum 300 words.**
 
@@ -396,6 +395,7 @@ Paste your LinkedIn post link here:
 ## 10. Proof of Work
 
 - LinkedIn Post URL: **ADD LINK HERE**  
+https://www.linkedin.com/posts/anointing-ugo-olumba-39115b265_devops-cloudengineering-consistency-activity-7478080986350616576-jZ6L?utm_source=share&utm_medium=member_android&rcm=ACoAAED7_V0Bgu6KcSX4wgcUWP8JQCfBPjvZ2nY
 - Blog / Medium : **ADD LINK HERE**  
 
 -https://www.linkedin.com/posts/anointing-ugo-olumba-39115b265_devops-cloudengineering-consistency-activity-7478080986350616576-jZ6L?utm_source=share&utm_medium=member_android&rcm=ACoAAED7_V0Bgu6KcSX4wgcUWP8JQCfBPjvZ2nY--

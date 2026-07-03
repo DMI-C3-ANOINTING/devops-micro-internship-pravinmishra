@@ -5,7 +5,8 @@
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
 ![Weeks](https://img.shields.io/badge/Weeks_Completed-0%2F15-green?style=for-the-badge)
 
-> 👋 **New here?** Read the [submission instructions](./INSTRUCTIONS.md) first — how to fork, fill in, and submit your assignments.
+> 👋 **New here?** Read the [submission instructions](./onboarding) first — how to fork, fill in, and submit your assignments.
+> Find all the required links & assignment guidelines from here [Required links](./dmi_cohort3_resources.md)
 
 ---
 
@@ -18,6 +19,11 @@
 | **Location** | ABUJA, NIGERIA|
 | **Background** | Cloud, DevOps & AI Professional |
 | **Goal** | To impact great in AWS|
+| **Name** | UGO-OLUMBA ANOINTING CHUKWUEBUKA|
+| **LinkedIn** | [UGO-OLUMBA ANOINTING](https://www.linkedin.com/in/anointing-ugo-olumba-39115b265/edit/intro/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BhSwbn4pGQ5ieXqrvU0LS2g%3D%3D) |
+| **Location** | IMO STATE, OWERRI, NIGERIA |
+| **Background** | THE CLOUDADVISORY OY, STUDENT  |
+| **Goal** | TO BECOME A CERTIFIED AWS PROFESSIONAL|
 
 ---
 
@@ -66,11 +72,16 @@ This is not a course. It is an internship-style program — real deployments, re
 
 
 
+
  Week 00 → Internet & Networking Basics 
 [Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)
+Week 00 → Internet & Networking Basics 
+ [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) 
 
  Week 01 → Success Mindset
 [Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
+Week 01 → Success Mindset 
+[![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) 
 
 <!-- Week 02 → Agentic AI with Claude Code -->
 <!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
@@ -134,6 +145,8 @@ This is not a course. It is an internship-style program — real deployments, re
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ⏳ Pending | — | — |
 | 01 | Success Mindset | ✅ Completed | https://www.linkedin.com/posts/anointing-ugo-olumba-39115b265_join-the-dmi-devops-micro-internship-share-7477887740068585475-dcUz/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAED7_V0Bgu6KcSX4wgcUWP8JQCfBPjvZ2nY| — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Completed |https://www.linkedin.com/posts/anointing-ugo-olumba-39115b265_devops-cloudengineering-learningjourney-activity-7452128144981155840-b4Om?utm_source=share&utm_medium=member_desktop&rcm=ACoAAED7_V0Bgu6KcSX4wgcUWP8JQCfBPjvZ2nY — | — |
+| 01 | Success Mindset |  ✅ Completed | ✅ Completed— |https://www.linkedin.com/posts/anointing-ugo-olumba-39115b265_devops-cloudengineering-consistency-activity-7478080986350616576-jZ6L?utm_source=share&utm_medium=member_desktop&rcm=ACoAAED7_V0Bgu6KcSX4wgcUWP8JQCfBPjvZ2nY — |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
